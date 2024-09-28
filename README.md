@@ -1,6 +1,6 @@
 - 👋 Hola, I’m Mehraan
 - 👀 I’m interested in electronics, computer science, robotics and machine learning.
-- 🌱 I’m currently learning working on data structures and algorithms and VHDL for a project I'm working on.
+- 🌱 I’m currently learning data structures and algorithms and VHDL for a project I'm working on.
 - 💞️ I’m looking to learn and collaborate on any of the above
 
 <!---
